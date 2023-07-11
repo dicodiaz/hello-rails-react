@@ -93,7 +93,7 @@ To run the project, execute the following commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-No future features are currently planned
+- [ ] Improve styling of the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
